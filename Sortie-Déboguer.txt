@@ -1,0 +1,14 @@
+﻿'Exo 2.exe' (Win32) : Chargé 'C:\Users\leolh\source\repos\TP5\Debug\Exo 2.exe'. Les symboles ont été chargés.
+'Exo 2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Exo 2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Exo 2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Exo 2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\apphelp.dll'. 
+'Exo 2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Exo 2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+Le thread 0x2090 s'est arrêté avec le code 0 (0x0).
+'Exo 2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Exo 2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Exo 2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+Le thread 0x34dc s'est arrêté avec le code 0 (0x0).
+Le thread 0x3e00 s'est arrêté avec le code 0 (0x0).
+Le programme '[15584] Exo 2.exe' s'est arrêté avec le code 0 (0x0).
